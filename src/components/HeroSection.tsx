@@ -61,7 +61,7 @@ export default function HeroSection() {
                 isLoaded ? 'translate-x-0 opacity-100' : '-translate-x-8 opacity-0'
               )}
             >
-              <p className="mb-3 text-sm font-light uppercase tracking-[0.3em] text-amber-400">
+              <p className="mb-3 uppercase tracking-[0.3em] text-amber-400 font-bold text-4xl">
                 Мастерская «Оба Два»
               </p>
               <h1 className="text-4xl font-light leading-tight text-white md:text-5xl lg:text-6xl">
