@@ -61,7 +61,7 @@ export default function HeroSection() {
               )}
             >
               <p className="mb-3 text-sm font-light uppercase tracking-[0.3em] text-amber-400">
-                Мастерская эпоксидной смолы и дерева
+                Мастерская «Оба Два»
               </p>
               <h1 className="text-4xl font-light leading-tight text-white md:text-5xl lg:text-6xl">
                 Изделия,<br />
