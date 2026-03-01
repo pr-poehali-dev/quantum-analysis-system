@@ -92,7 +92,7 @@ export default function HeroSection() {
 
               <div className="flex gap-4">
                 <a
-                  href="https://t.me/"
+                  href="https://t.me/vasbeepoxy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-amber-500 px-6 py-3 text-sm font-medium text-black transition-all hover:bg-amber-400"
