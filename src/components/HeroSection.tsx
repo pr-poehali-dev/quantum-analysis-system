@@ -103,7 +103,7 @@ export default function HeroSection() {
                   Написать в Telegram
                 </a>
                 <a
-                  href="https://vk.com/"
+                  href="https://vk.com/vasbeepoxywood"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 border border-white/30 px-6 py-3 text-sm font-medium text-white/80 transition-all hover:border-white/60 hover:text-white"
